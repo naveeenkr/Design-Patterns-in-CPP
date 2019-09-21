@@ -2,7 +2,7 @@
 	Author: Naveen Singh
 		
 	This file illustrates a basic example of strategy design pattern.
-  Find UML diagram of this example in same folder.
+  	Find UML diagram of this example in same folder.
 
 */
 
